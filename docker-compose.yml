@@ -83,8 +83,6 @@ services:
         condition: service_healthy
     networks:
       - clinicpos-network
-    volumes:
-      - ./src/backend:/app
     restart: unless-stopped
 
   # Next.js Frontend
@@ -102,10 +100,6 @@ services:
       - backend
     networks:
       - clinicpos-network
-    volumes:
-      - ./src/frontend:/app
-      - /app/node_modules
-      - /app/.next
     restart: unless-stopped
 
 networks:
