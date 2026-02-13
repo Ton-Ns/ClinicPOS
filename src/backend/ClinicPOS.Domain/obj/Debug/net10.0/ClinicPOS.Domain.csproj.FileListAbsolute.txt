@@ -1,0 +1,11 @@
+/Users/nsaiysopa/MyProject/ClinicPOS/src/backend/ClinicPOS.Domain/bin/Debug/net10.0/ClinicPOS.Domain.deps.json
+/Users/nsaiysopa/MyProject/ClinicPOS/src/backend/ClinicPOS.Domain/bin/Debug/net10.0/ClinicPOS.Domain.dll
+/Users/nsaiysopa/MyProject/ClinicPOS/src/backend/ClinicPOS.Domain/bin/Debug/net10.0/ClinicPOS.Domain.pdb
+/Users/nsaiysopa/MyProject/ClinicPOS/src/backend/ClinicPOS.Domain/obj/Debug/net10.0/ClinicPOS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nsaiysopa/MyProject/ClinicPOS/src/backend/ClinicPOS.Domain/obj/Debug/net10.0/ClinicPOS.Domain.AssemblyInfoInputs.cache
+/Users/nsaiysopa/MyProject/ClinicPOS/src/backend/ClinicPOS.Domain/obj/Debug/net10.0/ClinicPOS.Domain.AssemblyInfo.cs
+/Users/nsaiysopa/MyProject/ClinicPOS/src/backend/ClinicPOS.Domain/obj/Debug/net10.0/ClinicPOS.Domain.csproj.CoreCompileInputs.cache
+/Users/nsaiysopa/MyProject/ClinicPOS/src/backend/ClinicPOS.Domain/obj/Debug/net10.0/ClinicPOS.Domain.dll
+/Users/nsaiysopa/MyProject/ClinicPOS/src/backend/ClinicPOS.Domain/obj/Debug/net10.0/refint/ClinicPOS.Domain.dll
+/Users/nsaiysopa/MyProject/ClinicPOS/src/backend/ClinicPOS.Domain/obj/Debug/net10.0/ClinicPOS.Domain.pdb
+/Users/nsaiysopa/MyProject/ClinicPOS/src/backend/ClinicPOS.Domain/obj/Debug/net10.0/ref/ClinicPOS.Domain.dll

@@ -1,0 +1,17 @@
+/Users/nsaiysopa/MyProject/ClinicPOS/src/backend/ClinicPOS.Infrastructure/bin/Debug/net8.0/ClinicPOS.Infrastructure.deps.json
+/Users/nsaiysopa/MyProject/ClinicPOS/src/backend/ClinicPOS.Infrastructure/bin/Debug/net8.0/ClinicPOS.Infrastructure.runtimeconfig.json
+/Users/nsaiysopa/MyProject/ClinicPOS/src/backend/ClinicPOS.Infrastructure/bin/Debug/net8.0/ClinicPOS.Infrastructure.dll
+/Users/nsaiysopa/MyProject/ClinicPOS/src/backend/ClinicPOS.Infrastructure/bin/Debug/net8.0/ClinicPOS.Infrastructure.pdb
+/Users/nsaiysopa/MyProject/ClinicPOS/src/backend/ClinicPOS.Infrastructure/bin/Debug/net8.0/ClinicPOS.Domain.dll
+/Users/nsaiysopa/MyProject/ClinicPOS/src/backend/ClinicPOS.Infrastructure/bin/Debug/net8.0/ClinicPOS.Domain.pdb
+/Users/nsaiysopa/MyProject/ClinicPOS/src/backend/ClinicPOS.Infrastructure/obj/Debug/net8.0/ClinicPOS.Infrastructure.csproj.AssemblyReference.cache
+/Users/nsaiysopa/MyProject/ClinicPOS/src/backend/ClinicPOS.Infrastructure/obj/Debug/net8.0/ClinicPOS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nsaiysopa/MyProject/ClinicPOS/src/backend/ClinicPOS.Infrastructure/obj/Debug/net8.0/ClinicPOS.Infrastructure.AssemblyInfoInputs.cache
+/Users/nsaiysopa/MyProject/ClinicPOS/src/backend/ClinicPOS.Infrastructure/obj/Debug/net8.0/ClinicPOS.Infrastructure.AssemblyInfo.cs
+/Users/nsaiysopa/MyProject/ClinicPOS/src/backend/ClinicPOS.Infrastructure/obj/Debug/net8.0/ClinicPOS.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/nsaiysopa/MyProject/ClinicPOS/src/backend/ClinicPOS.Infrastructure/obj/Debug/net8.0/ClinicPO.CC5E419B.Up2Date
+/Users/nsaiysopa/MyProject/ClinicPOS/src/backend/ClinicPOS.Infrastructure/obj/Debug/net8.0/ClinicPOS.Infrastructure.dll
+/Users/nsaiysopa/MyProject/ClinicPOS/src/backend/ClinicPOS.Infrastructure/obj/Debug/net8.0/refint/ClinicPOS.Infrastructure.dll
+/Users/nsaiysopa/MyProject/ClinicPOS/src/backend/ClinicPOS.Infrastructure/obj/Debug/net8.0/ClinicPOS.Infrastructure.pdb
+/Users/nsaiysopa/MyProject/ClinicPOS/src/backend/ClinicPOS.Infrastructure/obj/Debug/net8.0/ClinicPOS.Infrastructure.genruntimeconfig.cache
+/Users/nsaiysopa/MyProject/ClinicPOS/src/backend/ClinicPOS.Infrastructure/obj/Debug/net8.0/ref/ClinicPOS.Infrastructure.dll
